@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+こんにちは。数理情報メディア工学研究室です。
+
+深層学習や画像処理、人と機械の調和の促進に向けた研究開発を行っています。
+
 <!--
 **Mcs-Image-lab/Mcs-Image-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
